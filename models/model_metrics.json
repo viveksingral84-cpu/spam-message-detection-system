@@ -1,0 +1,13 @@
+{
+    "accuracy": 0.9839,
+    "precision": 0.9781,
+    "recall": 0.8993,
+    "f1_score": 0.9371,
+    "total_samples": 5572,
+    "train_samples": 4457,
+    "test_samples": 1115,
+    "true_negatives": 963,
+    "false_positives": 3,
+    "false_negatives": 15,
+    "true_positives": 134
+}
